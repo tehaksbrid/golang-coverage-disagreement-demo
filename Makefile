@@ -1,0 +1,3 @@
+coverage-browser:
+	go test -cover -coverprofile=cover.txt ./...
+	go tool cover -html=cover.txt
