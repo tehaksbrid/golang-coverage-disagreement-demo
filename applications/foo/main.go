@@ -1,8 +1,8 @@
 package foo
 
 import (
-	"coverage-bug-example/applications/packages/bar"
-	"coverage-bug-example/applications/packages/baz"
+	"golang-coverage-disagreement-demo/applications/packages/bar"
+	"golang-coverage-disagreement-demo/applications/packages/baz"
 )
 
 func main() {

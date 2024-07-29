@@ -1,7 +1,7 @@
 package baz
 
 import (
-	"coverage-bug-example/applications/packages/bar"
+	"golang-coverage-disagreement-demo/applications/packages/bar"
 )
 
 func Baz(bar bar.BarStruct) {
